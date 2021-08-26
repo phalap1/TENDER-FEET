@@ -1,2 +1,2 @@
 # TENDER-FEET
-My first codes
+My first Java code
